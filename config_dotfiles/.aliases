@@ -1,13 +1,16 @@
+# Shell
 # Reload config
 alias reload="source ~/.bashrc"
-
+alias ..="cd .."
 # Use color when interactive
 alias grep="grep --color=auto"
 alias ls="ls --color=auto"
 alias diff="diff --color=auto"
-
-# Other
 alias la="ls -A --color=auto"
-alias repo="cd ~/Projects/Exordium/config_dotfiles/config"
 alias c="clear"
+
+# Paths
+alias repo="cd ~/Projects/Exordium/"
+
+# Applications
 alias mp="mousepad"
