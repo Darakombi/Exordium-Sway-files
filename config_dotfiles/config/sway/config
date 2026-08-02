@@ -1,6 +1,6 @@
-include ~/.config/sway/start.conf
 include ~/.config/sway/variables.conf
+include ~/.config/sway/start.conf
 include ~/.config/sway/devices.conf
-include ~/.config/sway/keymaps.conf
 include ~/.config/sway/style.conf
 include ~/.config/sway/behavior.conf
+include ~/.config/sway/keymaps.conf
