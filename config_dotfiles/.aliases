@@ -11,6 +11,8 @@ alias c="clear"
 
 # Paths
 alias repo="cd ~/Projects/Exordium/"
+alias repo1="cd ~/Projects/Exordium/config_dotfiles/config"
 
 # Applications
 alias mp="mousepad"
+alias sound="wpctl"
